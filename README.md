@@ -3,9 +3,12 @@
 
 I’m an aspiring front-end developer with a passion for finding creative and efficient solutions to build a user-friendly website based on my knowledge in UI/UX design and programming skills.
 <br />
+<br />
 I’m currently enrolled in the New Media Design and Web Development program at BCIT where I’ve learned about UI/UX Design and acquired solid working knowledge in front-end languages including HTML, CSS, and JavaScript. During the program, I found myself enjoying analyzing code, figuring out how to best implement a design, and fixing bugs to ensure a seamless user experience, which made me aspire to be a front-end developer.
 <br />
+<br />
 Outside of school, I’m a super outdoorsy person enjoying hiking in the summer and hitting the slopes in the winter.
+<br />
 <br />
 To learn more about my work, visit my portfolio [website][website]. Also, let’s connect via social media below too!
 
@@ -16,7 +19,6 @@ To learn more about my work, visit my portfolio [website][website]. Also, let’
 - 🇨🇦 I'm based in Vancouver, BC
 - ⛰️ I love to spend time outdoors riding a bike 🚴‍♀️ , hiking 🥾, and hitting the slopes 🏂  when I'm not breaking codes.
 
-<br />
 
 ### Languages and Tools:
 
