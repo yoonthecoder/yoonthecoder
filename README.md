@@ -39,7 +39,7 @@ To learn more about my work, visit my portfolio [website][website]. Also, let’
 
 ### Connect with me:
 
-[<img align="left" alt="yoonkim.ca" width="22px" src="images/website.png" />][website]
+[<img align="left" alt="yoonkim.ca" width="22px" src="images/website_icon.png" />][website]
 [<img align="left" alt="yoonkim | LinkedIn" width="22px" src="images/linkedin.png" />][linkedin]
 [<img align="left" alt="yoonkim | Instagram" width="22px" src="images/ig_logo.png" />][instagram]
 
