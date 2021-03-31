@@ -1,4 +1,4 @@
-### Hi there, I'm Yoon Kim - aka [yoonthecoder][instagram] 👋
+### Hi there, I'm Yoon - aka [yoonthecoder][instagram] 👋
 <img src="images/linkedin_banner.png" alt="linkdin-banner">
 
 I’m an aspiring front-end developer with a passion for finding creative and efficient solutions to build a user-friendly website based on my knowledge in UI/UX design and programming skills.
