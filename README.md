@@ -39,9 +39,9 @@ To learn more about my work, visit my portfolio [website][website]. Also, let’
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="yoonkim.ca" width="22px" src="images/website.png" />][website]
+[<img align="left" alt="yoonkim | LinkedIn" width="22px" src="images/linkedin.png" />][linkedin]
+[<img align="left" alt="yoonkim | Instagram" width="22px" src="images/ig_logo.png" />][instagram]
 
 [website]: https://yoonkim.ca
 [instagram]: https://www.instagram.com/yoonthecoder/
