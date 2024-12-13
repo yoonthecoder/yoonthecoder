@@ -1,7 +1,8 @@
 # 💫 About Me:
-📌  Currently working in Vancouver, BC <br>
-💼  3+ years of professional experience in web development, specializing in frontend development<br>
-🗣️  Fluent in English and Korean
+📌 Currently working in Vancouver, BC <br>
+💼 3+ years of professional experience in web development, specializing in frontend development<br>
+🗣️ Fluent in English and Korean
+🐾 Dog lover 
 
 
 # 🛠️ Technologies & Tools
